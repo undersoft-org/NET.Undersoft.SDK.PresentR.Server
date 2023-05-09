@@ -1,0 +1,12 @@
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\bin\Debug\net7.0\BootstrapBlazor.Middleware.deps.json
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\bin\Debug\net7.0\BootstrapBlazor.Middleware.dll
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\bin\Debug\net7.0\BootstrapBlazor.Middleware.pdb
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\obj\Debug\net7.0\BootstrapBlazor.Middleware.csproj.AssemblyReference.cache
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\obj\Debug\net7.0\BootstrapBlazor.Middleware.GeneratedMSBuildEditorConfig.editorconfig
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\obj\Debug\net7.0\BootstrapBlazor.Middleware.AssemblyInfoInputs.cache
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\obj\Debug\net7.0\BootstrapBlazor.Middleware.AssemblyInfo.cs
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\obj\Debug\net7.0\BootstrapBlazor.Middleware.csproj.CoreCompileInputs.cache
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\obj\Debug\net7.0\BootstrapBlazor.Middleware.dll
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\obj\Debug\net7.0\refint\BootstrapBlazor.Middleware.dll
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\obj\Debug\net7.0\BootstrapBlazor.Middleware.pdb
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.CAP\src\Middleware\BootstrapBlazor.Middleware\obj\Debug\net7.0\ref\BootstrapBlazor.Middleware.dll

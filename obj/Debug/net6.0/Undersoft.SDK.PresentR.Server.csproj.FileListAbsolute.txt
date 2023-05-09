@@ -1,0 +1,12 @@
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\bin\Debug\net6.0\Undersoft.SDK.PresentR.Server.deps.json
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\bin\Debug\net6.0\Undersoft.SDK.PresentR.Server.dll
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\bin\Debug\net6.0\Undersoft.SDK.PresentR.Server.pdb
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\obj\Debug\net6.0\Undersoft.SDK.PresentR.Server.csproj.AssemblyReference.cache
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\obj\Debug\net6.0\Undersoft.SDK.PresentR.Server.GeneratedMSBuildEditorConfig.editorconfig
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\obj\Debug\net6.0\Undersoft.SDK.PresentR.Server.AssemblyInfoInputs.cache
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\obj\Debug\net6.0\Undersoft.SDK.PresentR.Server.AssemblyInfo.cs
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\obj\Debug\net6.0\Undersoft.SDK.PresentR.Server.csproj.CoreCompileInputs.cache
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\obj\Debug\net6.0\Undersoft.SDK.PresentR.Server.dll
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\obj\Debug\net6.0\refint\Undersoft.SDK.PresentR.Server.dll
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\obj\Debug\net6.0\Undersoft.SDK.PresentR.Server.pdb
+X:\DEVELOPMENT\PROJECTS\NET\Undersoft\Universer\Undersoft.SDK\src\Undersoft.SDK.PresentR.Server\obj\Debug\net6.0\ref\Undersoft.SDK.PresentR.Server.dll
